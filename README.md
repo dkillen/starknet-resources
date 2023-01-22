@@ -1,1 +1,1 @@
-# Dave's StarkNet and Cairo learning resources
+# Dave's StarkNet and Cairo self-study resources
