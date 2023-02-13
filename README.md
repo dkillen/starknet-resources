@@ -8,6 +8,14 @@ This collection broken down into sections to, hopefully, make it easier to find 
 
 ### What is StarkNet?
 
-## Cairo
+From the StarkNet documentation itself: "StarkNet is a permissionless decentralized Validity-Rollup (also known as a “ZK-Rollup”). It operates as an L2 network over Ethereum, enabling any dApp to achieve unlimited scale for its computation – without compromising Ethereum’s composability and security, thanks to StarkNet’s reliance on the safest and most scalable cryptographic proof system – STARK."
 
-## StarkNet
+Smart contracts for StarkNet are written in Cairo, a smart contract language developed by StarkWare specifically for writing provable programs.
+
+[StarkNet Documentation](https://docs.starknet.io/documentation/)
+
+### Setting up the environment
+
+Before you start writing Cairo contracts for StarkNet you're going to need to get an environment set up. Following StarkWare's official docs will get you a basic, but functional environment set up and ready to go. 
+
+[Setting up the environment](https://www.cairo-lang.org/docs/quickstart.html) 
